@@ -51,6 +51,7 @@ font-family: Garamond, serif;
     li {
         margin-left: 15px;
     font-family: Garamond, serif;
+        font-style: italic;
         letter-spacing: 2px;
     color: #483c32;
     }

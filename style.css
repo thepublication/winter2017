@@ -43,15 +43,15 @@ font-style: italic;
 
 p {
 font-family: Garamond, serif;
-font-style: italic;
     color: #483c32;
+    letter-spacing: 2px;
     margin-left: 100px;
     margin-right: 100px;
 }
     li {
         margin-left: 15px;
     font-family: Garamond, serif;
-font-style: italic;
+        letter-spacing: 2px;
     color: #483c32;
     }
 div.blockquote {

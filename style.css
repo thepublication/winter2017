@@ -8,13 +8,13 @@ div.navigate {
     top: 0;
     left: 0;
     color: #4F2F4F;
-    font-family: Garamond, serif;
+    font-family: Helvetica, sans-serif;
     font-style: oblique;
     text-decoration: underline;
 }
 
 h1 {
-font-family: Garamond, serif;
+font-family: Helvetica, sans-serif;
 font-style: italic;
     text-decoration: underline;
     color: #800020;
@@ -30,7 +30,7 @@ font-style: italic;
     }
     
     h3 {
-        font-family: Garamond, serif;
+        font-family: Helvetica, sans-serif;
 font-style: italic;
     text-decoration: underline;
     color: #800020;
@@ -42,7 +42,7 @@ font-style: italic;
    
 
 p {
-font-family: Garamond, serif;
+font-family: Helvetica, sans-serif;
     color: #483c32;
     letter-spacing: 2px;
     margin-left: 100px;
@@ -50,14 +50,14 @@ font-family: Garamond, serif;
 }
     li {
         margin-left: 15px;
-    font-family: Garamond, serif;
+    font-family: Helvetica, sans-serif;
         font-style: italic;
         letter-spacing: 2px;
     color: #483c32;
     }
 div.blockquote {
     text-indent: 40px;
-    font-family: Garamond, serif;
+    font-family: Helvetica, sans-serif;;
     font-style: bold;
     color: #000000;
     font-size: 1.625em;
